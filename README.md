@@ -15,5 +15,7 @@ The Retrieval Augmented Generation (RAG) is a powerful tool for document retriev
 * Interactive Conversations: Users can engage in interactive conversations with the documents, asking questions and receiving answers. 
 
 
-![![Screenshot_20240514_220018](https://github.com/user-attachments/assets/aa1850cd-f0e9-4162-af68-59e4610dcb99)
+# Example
+
+![Screenshot_20240514_220018](https://github.com/user-attachments/assets/aa1850cd-f0e9-4162-af68-59e4610dcb99)
 ]
